@@ -610,3 +610,12 @@ font-size: large;
 .thiimg2{
     margin-top: 30px;
 }
+.categ li:hover{
+color: #80b037;
+}
+.categ i:hover{
+    color: #80b037;  
+}
+.right i:hover{
+    color: #80b037;
+}
